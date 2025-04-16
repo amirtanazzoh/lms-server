@@ -1,1033 +1,1009 @@
 {
-	"users": [
-		{
-			"id": 1,
-			"name": "Margaret Bartoletti",
-			"email": "Dashawn26@hotmail.com",
-			"role": "admin"
-		},
-		{
-			"id": 2,
-			"name": "Mrs. Michelle Terry",
-			"email": "Keaton.Kuphal@hotmail.com",
-			"role": "teacher"
-		},
-		{
-			"id": 3,
-			"name": "Mrs. Myrtle Welch",
-			"email": "Dortha_Weissnat@hotmail.com",
-			"role": "teacher"
-		},
-		{
-			"id": 4,
-			"name": "Trevor Thompson",
-			"email": "Gwen_Hane89@yahoo.com",
-			"role": "teacher"
-		},
-		{
-			"id": 5,
-			"name": "Marguerite Corwin",
-			"email": "Aletha58@hotmail.com",
-			"role": "teacher"
-		},
-		{
-			"id": 6,
-			"name": "Winifred MacGyver PhD",
-			"email": "Gregg95@hotmail.com",
-			"role": "teacher"
-		},
-		{
-			"id": 7,
-			"name": "Darryl Heidenreich",
-			"email": "Guy91@gmail.com",
-			"role": "student"
-		},
-		{
-			"id": 8,
-			"name": "Shari Schneider",
-			"email": "Kole91@yahoo.com",
-			"role": "student"
-		},
-		{
-			"id": 9,
-			"name": "Ernestine Lindgren",
-			"email": "Coralie_Hintz@hotmail.com",
-			"role": "student"
-		},
-		{
-			"id": 10,
-			"name": "Bruce Bartoletti",
-			"email": "Haylee_DAmore@gmail.com",
-			"role": "student"
-		},
-		{
-			"id": 11,
-			"name": "Sandy Mueller",
-			"email": "Bethany55@hotmail.com",
-			"role": "student"
-		},
-		{
-			"id": 12,
-			"name": "Barry Dach",
-			"email": "Mackenzie.Hickle33@gmail.com",
-			"role": "student"
-		},
-		{
-			"id": 13,
-			"name": "Roy Paucek V",
-			"email": "Madisen_Prosacco38@yahoo.com",
-			"role": "student"
-		},
-		{
-			"id": 14,
-			"name": "Jessie Mueller-Hermann DDS",
-			"email": "Shemar_Fadel@yahoo.com",
-			"role": "student"
-		},
-		{
-			"id": 15,
-			"name": "Jon Lind IV",
-			"email": "Mary58@gmail.com",
-			"role": "student"
-		},
-		{
-			"id": 16,
-			"name": "Anna Cormier",
-			"email": "Jasper54@gmail.com",
-			"role": "student"
-		},
-		{
-			"id": 17,
-			"name": "Sonya O'Hara",
-			"email": "Gilda31@gmail.com",
-			"role": "student"
-		},
-		{
-			"id": 18,
-			"name": "Dr. Karl Tremblay",
-			"email": "Neil.Bergnaum60@hotmail.com",
-			"role": "student"
-		},
-		{
-			"id": 19,
-			"name": "Rita Yundt",
-			"email": "Fabiola35@yahoo.com",
-			"role": "student"
-		},
-		{
-			"id": 20,
-			"name": "Dwayne Lehner",
-			"email": "Adelle.Rowe@gmail.com",
-			"role": "student"
-		},
-		{
-			"id": 21,
-			"name": "Kelly Reinger",
-			"email": "Oswald_Rath@yahoo.com",
-			"role": "student"
-		},
-		{
-			"id": 22,
-			"name": "Daryl Schimmel",
-			"email": "Robb92@gmail.com",
-			"role": "student"
-		},
-		{
-			"id": 23,
-			"name": "Mr. Danny Murphy IV",
-			"email": "Nelson.Toy@hotmail.com",
-			"role": "student"
-		},
-		{
-			"id": 24,
-			"name": "Della Brekke",
-			"email": "Dorian.Anderson94@yahoo.com",
-			"role": "student"
-		},
-		{
-			"id": 25,
-			"name": "Lewis Hettinger",
-			"email": "Ayden16@yahoo.com",
-			"role": "student"
-		},
-		{
-			"id": 26,
-			"name": "Kelley Wilderman",
-			"email": "Percy2@hotmail.com",
-			"role": "student"
-		},
-		{
-			"id": 27,
-			"name": "Kay Gibson-Dare",
-			"email": "Kenton.Cummings@hotmail.com",
-			"role": "student"
-		},
-		{
-			"id": 28,
-			"name": "Doris Durgan",
-			"email": "Kelton_Grant49@gmail.com",
-			"role": "student"
-		},
-		{
-			"id": 29,
-			"name": "Merle Keebler MD",
-			"email": "Kadin90@yahoo.com",
-			"role": "student"
-		},
-		{
-			"id": 30,
-			"name": "Diana MacGyver",
-			"email": "Eli85@yahoo.com",
-			"role": "student"
-		}
-	],
-	"courses": [
-		{
-			"id": 1,
-			"title": "Diverse static frame",
-			"description": "Vobis deinde ventus denuo acerbitas ago.",
-			"instructorId": 2
-		},
-		{
-			"id": 2,
-			"title": "Team-oriented asymmetric structure",
-			"description": "Cubitum allatus adstringo.",
-			"instructorId": 3
-		},
-		{
-			"id": 3,
-			"title": "Adaptive heuristic task-force",
-			"description": "Supplanto cultellus vetus cruentus vorax possimus peior.",
-			"instructorId": 4
-		},
-		{
-			"id": 4,
-			"title": "Sharable real-time system engine",
-			"description": "Tripudio virtus maxime tametsi coerceo a cometes voco.",
-			"instructorId": 5
-		},
-		{
-			"id": 5,
-			"title": "User-centric next generation forecast",
-			"description": "Versus subnecto harum centum at dolor cumque tempus in theologus.",
-			"instructorId": 6
-		}
-	],
-	"lessons": [
-		{
-			"id": 1,
-			"courseId": 1,
-			"title": "Lesson 1 of Course 1",
-			"content": "Corpus turpis ceno vero pariatur odio conitor tener concido creber. Atavus adiuvo tredecim. Aestus spero atrocitas antea magni."
-		},
-		{
-			"id": 2,
-			"courseId": 1,
-			"title": "Lesson 2 of Course 1",
-			"content": "Caveo maiores est tibi crebro. Demonstro currus annus ceno stella vereor contra testimonium. Caritas rem uter vix adhuc voluntarius."
-		},
-		{
-			"id": 3,
-			"courseId": 1,
-			"title": "Lesson 3 of Course 1",
-			"content": "Suasoria casso ultio curriculum atrocitas comes viriliter clam. Certus veritas sodalitas canto ara alter clarus. Corpus voveo utrimque in cauda temeritas alienus crur."
-		},
-		{
-			"id": 4,
-			"courseId": 1,
-			"title": "Lesson 4 of Course 1",
-			"content": "Custodia absconditus turpis appono anser suffoco tabula. Et comburo eos urbs recusandae. Vinum annus supellex vere desino verecundia."
-		},
-		{
-			"id": 5,
-			"courseId": 1,
-			"title": "Lesson 5 of Course 1",
-			"content": "Tabella taedium utroque blandior tenetur thalassinus truculenter. Tantillus tibi dolores absens amitto. Culpa auctor bene arcesso ante sollers crinis umerus bis aestus."
-		},
-		{
-			"id": 6,
-			"courseId": 2,
-			"title": "Lesson 1 of Course 2",
-			"content": "Voluptatibus deripio voluntarius. Illo autem taedium voluptate pecus ex creo depulso. Summisse eum suus carmen."
-		},
-		{
-			"id": 7,
-			"courseId": 2,
-			"title": "Lesson 2 of Course 2",
-			"content": "Adsuesco comes non delibero casus quis. Templum degero apostolus arma capitulus amissio. Caveo ager arbustum vilicus cornu conculco talus casus amitto."
-		},
-		{
-			"id": 8,
-			"courseId": 2,
-			"title": "Lesson 3 of Course 2",
-			"content": "Cupressus voco vicinus peccatus acidus cogito stabilis viscus deficio atque. Caput caste totus ubi. Tabesco caute vitium ustulo atavus terror denique."
-		},
-		{
-			"id": 9,
-			"courseId": 2,
-			"title": "Lesson 4 of Course 2",
-			"content": "Tripudio ocer aveho. Ubi condico pecus thorax. Viscus stella libero asper bellicus aiunt tenus labore adulatio."
-		},
-		{
-			"id": 10,
-			"courseId": 2,
-			"title": "Lesson 5 of Course 2",
-			"content": "Adimpleo veritas vetus. Autus aer una. Venia attollo sublime crebro delego."
-		},
-		{
-			"id": 11,
-			"courseId": 3,
-			"title": "Lesson 1 of Course 3",
-			"content": "Perspiciatis turpis amplexus dens conscendo casso delicate. Aspicio alius viduo cauda stella alioqui. Cicuta aliqua depereo et sub suadeo alius beneficium vomito circumvenio."
-		},
-		{
-			"id": 12,
-			"courseId": 3,
-			"title": "Lesson 2 of Course 3",
-			"content": "Dedico coepi vel tametsi credo adflicto conservo tempus tot adaugeo. Verumtamen tamen temptatio cogito subseco delibero vinculum carcer. Vito caste appono teneo molestias in patrocinor."
-		},
-		{
-			"id": 13,
-			"courseId": 3,
-			"title": "Lesson 3 of Course 3",
-			"content": "Comis aliquam sperno conculco tibi valens surgo accusantium venio decerno. Vorago nesciunt nihil. Cohibeo acsi villa."
-		},
-		{
-			"id": 14,
-			"courseId": 3,
-			"title": "Lesson 4 of Course 3",
-			"content": "Chirographum alius supplanto pauci ocer uterque. Baiulus angelus acidus. Quidem quidem aestus timidus velut comprehendo."
-		},
-		{
-			"id": 15,
-			"courseId": 3,
-			"title": "Lesson 5 of Course 3",
-			"content": "Curto timor vomito coruscus villa spiculum. Celer decumbo demitto volup. Deprimo sit verecundia comes."
-		},
-		{
-			"id": 16,
-			"courseId": 4,
-			"title": "Lesson 1 of Course 4",
-			"content": "Asperiores vulnus delinquo una fugiat ars ventito arbor autem. Atrocitas alo tabernus vallum viriliter vester celebrer eveniet avaritia eius. Alias bellicus vestigium viduo suffragium."
-		},
-		{
-			"id": 17,
-			"courseId": 4,
-			"title": "Lesson 2 of Course 4",
-			"content": "Tabesco artificiose deorsum sed occaecati. Sollers summa tonsor. Thymum tabgo caste absum praesentium tandem amet occaecati."
-		},
-		{
-			"id": 18,
-			"courseId": 4,
-			"title": "Lesson 3 of Course 4",
-			"content": "Celo vito valde deprecator arca. Crapula adstringo videlicet succurro deserunt. Aedificium termes arbustum coniecto."
-		},
-		{
-			"id": 19,
-			"courseId": 4,
-			"title": "Lesson 4 of Course 4",
-			"content": "Suus accusamus tantum trepide sollicito pauci vir. Terror tabgo complectus odio deorsum bis corpus optio stabilis. Expedita taedium sequi repellat sustineo contego adduco defungo verecundia."
-		},
-		{
-			"id": 20,
-			"courseId": 4,
-			"title": "Lesson 5 of Course 4",
-			"content": "Teres sortitus animi veniam esse facilis tantillus copiose. Suppellex adhaero templum apparatus speciosus caecus abduco deludo comes. Capto debitis terror."
-		},
-		{
-			"id": 21,
-			"courseId": 5,
-			"title": "Lesson 1 of Course 5",
-			"content": "Strues agnitio suadeo. Demum acer certus copiose. Facilis casus eaque umquam odit ustilo ipsa voluptas via."
-		},
-		{
-			"id": 22,
-			"courseId": 5,
-			"title": "Lesson 2 of Course 5",
-			"content": "Bellum texo vilitas aqua tardus amplitudo. Voluptatem crapula vindico conor copiose. Temptatio placeat pecus communis temperantia suffragium bis."
-		},
-		{
-			"id": 23,
-			"courseId": 5,
-			"title": "Lesson 3 of Course 5",
-			"content": "Arbustum capitulus utor aduro vindico defluo vomer cognomen. Demo sto demitto thema casus autem video decerno quos et. Modi termes sustineo correptius vulgivagus soleo vivo comis."
-		},
-		{
-			"id": 24,
-			"courseId": 5,
-			"title": "Lesson 4 of Course 5",
-			"content": "Atrocitas curis aurum coerceo delinquo tergum tricesimus defendo. Alius sequi accusamus bos. Creta crinis cogito coniecto aedificium sulum laborum vulgivagus."
-		},
-		{
-			"id": 25,
-			"courseId": 5,
-			"title": "Lesson 5 of Course 5",
-			"content": "Substantia solus tabula. Quaerat dolor arbor absum comedo acies tamquam corona contra. Tamquam vaco comis repellendus arbitro alii uberrime mollitia tempus libero."
-		}
-	],
-	"enrollments": [
-		{
-			"id": 1,
-			"userId": 7,
-			"courseId": 1
-		},
-		{
-			"id": 2,
-			"userId": 7,
-			"courseId": 3
-		},
-		{
-			"id": 3,
-			"userId": 7,
-			"courseId": 4
-		},
-		{
-			"id": 4,
-			"userId": 8,
-			"courseId": 5
-		},
-		{
-			"id": 5,
-			"userId": 9,
-			"courseId": 3
-		},
-		{
-			"id": 6,
-			"userId": 10,
-			"courseId": 2
-		},
-		{
-			"id": 7,
-			"userId": 10,
-			"courseId": 1
-		},
-		{
-			"id": 8,
-			"userId": 11,
-			"courseId": 3
-		},
-		{
-			"id": 9,
-			"userId": 11,
-			"courseId": 1
-		},
-		{
-			"id": 10,
-			"userId": 11,
-			"courseId": 4
-		},
-		{
-			"id": 11,
-			"userId": 12,
-			"courseId": 2
-		},
-		{
-			"id": 12,
-			"userId": 13,
-			"courseId": 4
-		},
-		{
-			"id": 13,
-			"userId": 13,
-			"courseId": 1
-		},
-		{
-			"id": 14,
-			"userId": 13,
-			"courseId": 5
-		},
-		{
-			"id": 15,
-			"userId": 14,
-			"courseId": 1
-		},
-		{
-			"id": 16,
-			"userId": 15,
-			"courseId": 4
-		},
-		{
-			"id": 17,
-			"userId": 15,
-			"courseId": 1
-		},
-		{
-			"id": 18,
-			"userId": 15,
-			"courseId": 2
-		},
-		{
-			"id": 19,
-			"userId": 16,
-			"courseId": 2
-		},
-		{
-			"id": 20,
-			"userId": 17,
-			"courseId": 4
-		},
-		{
-			"id": 21,
-			"userId": 18,
-			"courseId": 2
-		},
-		{
-			"id": 22,
-			"userId": 18,
-			"courseId": 4
-		},
-		{
-			"id": 23,
-			"userId": 19,
-			"courseId": 3
-		},
-		{
-			"id": 24,
-			"userId": 19,
-			"courseId": 1
-		},
-		{
-			"id": 25,
-			"userId": 19,
-			"courseId": 4
-		},
-		{
-			"id": 26,
-			"userId": 20,
-			"courseId": 1
-		},
-		{
-			"id": 27,
-			"userId": 20,
-			"courseId": 3
-		},
-		{
-			"id": 28,
-			"userId": 20,
-			"courseId": 4
-		},
-		{
-			"id": 29,
-			"userId": 21,
-			"courseId": 3
-		},
-		{
-			"id": 30,
-			"userId": 21,
-			"courseId": 2
-		},
-		{
-			"id": 31,
-			"userId": 21,
-			"courseId": 4
-		},
-		{
-			"id": 32,
-			"userId": 22,
-			"courseId": 5
-		},
-		{
-			"id": 33,
-			"userId": 22,
-			"courseId": 2
-		},
-		{
-			"id": 34,
-			"userId": 23,
-			"courseId": 2
-		},
-		{
-			"id": 35,
-			"userId": 23,
-			"courseId": 5
-		},
-		{
-			"id": 36,
-			"userId": 23,
-			"courseId": 4
-		},
-		{
-			"id": 37,
-			"userId": 24,
-			"courseId": 5
-		},
-		{
-			"id": 38,
-			"userId": 24,
-			"courseId": 2
-		},
-		{
-			"id": 39,
-			"userId": 25,
-			"courseId": 3
-		},
-		{
-			"id": 40,
-			"userId": 26,
-			"courseId": 4
-		},
-		{
-			"id": 41,
-			"userId": 26,
-			"courseId": 1
-		},
-		{
-			"id": 42,
-			"userId": 27,
-			"courseId": 3
-		},
-		{
-			"id": 43,
-			"userId": 27,
-			"courseId": 4
-		},
-		{
-			"id": 44,
-			"userId": 28,
-			"courseId": 5
-		},
-		{
-			"id": 45,
-			"userId": 28,
-			"courseId": 1
-		},
-		{
-			"id": 46,
-			"userId": 29,
-			"courseId": 5
-		},
-		{
-			"id": 47,
-			"userId": 29,
-			"courseId": 4
-		},
-		{
-			"id": 48,
-			"userId": 29,
-			"courseId": 1
-		},
-		{
-			"id": 49,
-			"userId": 30,
-			"courseId": 1
-		},
-		{
-			"id": 50,
-			"userId": 30,
-			"courseId": 4
-		}
-	],
-	"progress": [
-		{
-			"id": 1002,
-			"userId": 7,
-			"courseId": 1,
-			"completedLessons": 1,
-			"totalLessons": 5
-		},
-		{
-			"id": 1003,
-			"userId": 7,
-			"courseId": 3,
-			"completedLessons": 0,
-			"totalLessons": 5
-		},
-		{
-			"id": 1004,
-			"userId": 7,
-			"courseId": 4,
-			"completedLessons": 1,
-			"totalLessons": 5
-		},
-		{
-			"id": 1005,
-			"userId": 8,
-			"courseId": 5,
-			"completedLessons": 1,
-			"totalLessons": 5
-		},
-		{
-			"id": 1006,
-			"userId": 9,
-			"courseId": 3,
-			"completedLessons": 0,
-			"totalLessons": 5
-		},
-		{
-			"id": 1007,
-			"userId": 10,
-			"courseId": 2,
-			"completedLessons": 2,
-			"totalLessons": 5
-		},
-		{
-			"id": 1008,
-			"userId": 10,
-			"courseId": 1,
-			"completedLessons": 1,
-			"totalLessons": 5
-		},
-		{
-			"id": 1009,
-			"userId": 11,
-			"courseId": 3,
-			"completedLessons": 4,
-			"totalLessons": 5
-		},
-		{
-			"id": 1010,
-			"userId": 11,
-			"courseId": 1,
-			"completedLessons": 5,
-			"totalLessons": 5
-		},
-		{
-			"id": 1011,
-			"userId": 11,
-			"courseId": 4,
-			"completedLessons": 3,
-			"totalLessons": 5
-		},
-		{
-			"id": 1012,
-			"userId": 12,
-			"courseId": 2,
-			"completedLessons": 2,
-			"totalLessons": 5
-		},
-		{
-			"id": 1013,
-			"userId": 13,
-			"courseId": 4,
-			"completedLessons": 2,
-			"totalLessons": 5
-		},
-		{
-			"id": 1014,
-			"userId": 13,
-			"courseId": 1,
-			"completedLessons": 0,
-			"totalLessons": 5
-		},
-		{
-			"id": 1015,
-			"userId": 13,
-			"courseId": 5,
-			"completedLessons": 3,
-			"totalLessons": 5
-		},
-		{
-			"id": 1016,
-			"userId": 14,
-			"courseId": 1,
-			"completedLessons": 2,
-			"totalLessons": 5
-		},
-		{
-			"id": 1017,
-			"userId": 15,
-			"courseId": 4,
-			"completedLessons": 4,
-			"totalLessons": 5
-		},
-		{
-			"id": 1018,
-			"userId": 15,
-			"courseId": 1,
-			"completedLessons": 1,
-			"totalLessons": 5
-		},
-		{
-			"id": 1019,
-			"userId": 15,
-			"courseId": 2,
-			"completedLessons": 2,
-			"totalLessons": 5
-		},
-		{
-			"id": 1020,
-			"userId": 16,
-			"courseId": 2,
-			"completedLessons": 3,
-			"totalLessons": 5
-		},
-		{
-			"id": 1021,
-			"userId": 17,
-			"courseId": 4,
-			"completedLessons": 3,
-			"totalLessons": 5
-		},
-		{
-			"id": 1022,
-			"userId": 18,
-			"courseId": 2,
-			"completedLessons": 0,
-			"totalLessons": 5
-		},
-		{
-			"id": 1023,
-			"userId": 18,
-			"courseId": 4,
-			"completedLessons": 5,
-			"totalLessons": 5
-		},
-		{
-			"id": 1024,
-			"userId": 19,
-			"courseId": 3,
-			"completedLessons": 3,
-			"totalLessons": 5
-		},
-		{
-			"id": 1025,
-			"userId": 19,
-			"courseId": 1,
-			"completedLessons": 0,
-			"totalLessons": 5
-		},
-		{
-			"id": 1026,
-			"userId": 19,
-			"courseId": 4,
-			"completedLessons": 4,
-			"totalLessons": 5
-		},
-		{
-			"id": 1027,
-			"userId": 20,
-			"courseId": 1,
-			"completedLessons": 0,
-			"totalLessons": 5
-		},
-		{
-			"id": 1028,
-			"userId": 20,
-			"courseId": 3,
-			"completedLessons": 3,
-			"totalLessons": 5
-		},
-		{
-			"id": 1029,
-			"userId": 20,
-			"courseId": 4,
-			"completedLessons": 0,
-			"totalLessons": 5
-		},
-		{
-			"id": 1030,
-			"userId": 21,
-			"courseId": 3,
-			"completedLessons": 3,
-			"totalLessons": 5
-		},
-		{
-			"id": 1031,
-			"userId": 21,
-			"courseId": 2,
-			"completedLessons": 4,
-			"totalLessons": 5
-		},
-		{
-			"id": 1032,
-			"userId": 21,
-			"courseId": 4,
-			"completedLessons": 3,
-			"totalLessons": 5
-		},
-		{
-			"id": 1033,
-			"userId": 22,
-			"courseId": 5,
-			"completedLessons": 2,
-			"totalLessons": 5
-		},
-		{
-			"id": 1034,
-			"userId": 22,
-			"courseId": 2,
-			"completedLessons": 1,
-			"totalLessons": 5
-		},
-		{
-			"id": 1035,
-			"userId": 23,
-			"courseId": 2,
-			"completedLessons": 3,
-			"totalLessons": 5
-		},
-		{
-			"id": 1036,
-			"userId": 23,
-			"courseId": 5,
-			"completedLessons": 5,
-			"totalLessons": 5
-		},
-		{
-			"id": 1037,
-			"userId": 23,
-			"courseId": 4,
-			"completedLessons": 3,
-			"totalLessons": 5
-		},
-		{
-			"id": 1038,
-			"userId": 24,
-			"courseId": 5,
-			"completedLessons": 3,
-			"totalLessons": 5
-		},
-		{
-			"id": 1039,
-			"userId": 24,
-			"courseId": 2,
-			"completedLessons": 5,
-			"totalLessons": 5
-		},
-		{
-			"id": 1040,
-			"userId": 25,
-			"courseId": 3,
-			"completedLessons": 2,
-			"totalLessons": 5
-		},
-		{
-			"id": 1041,
-			"userId": 26,
-			"courseId": 4,
-			"completedLessons": 0,
-			"totalLessons": 5
-		},
-		{
-			"id": 1042,
-			"userId": 26,
-			"courseId": 1,
-			"completedLessons": 2,
-			"totalLessons": 5
-		},
-		{
-			"id": 1043,
-			"userId": 27,
-			"courseId": 3,
-			"completedLessons": 1,
-			"totalLessons": 5
-		},
-		{
-			"id": 1044,
-			"userId": 27,
-			"courseId": 4,
-			"completedLessons": 0,
-			"totalLessons": 5
-		},
-		{
-			"id": 1045,
-			"userId": 28,
-			"courseId": 5,
-			"completedLessons": 2,
-			"totalLessons": 5
-		},
-		{
-			"id": 1046,
-			"userId": 28,
-			"courseId": 1,
-			"completedLessons": 4,
-			"totalLessons": 5
-		},
-		{
-			"id": 1047,
-			"userId": 29,
-			"courseId": 5,
-			"completedLessons": 3,
-			"totalLessons": 5
-		},
-		{
-			"id": 1048,
-			"userId": 29,
-			"courseId": 4,
-			"completedLessons": 3,
-			"totalLessons": 5
-		},
-		{
-			"id": 1049,
-			"userId": 29,
-			"courseId": 1,
-			"completedLessons": 5,
-			"totalLessons": 5
-		},
-		{
-			"id": 1050,
-			"userId": 30,
-			"courseId": 1,
-			"completedLessons": 4,
-			"totalLessons": 5
-		},
-		{
-			"id": 1051,
-			"userId": 30,
-			"courseId": 4,
-			"completedLessons": 5,
-			"totalLessons": 5
-		}
-	],
-	"dashboardStats": {
-		"userRoles": {
-			"admin": 1,
-			"teacher": 5,
-			"student": 24
-		},
-		"courseEnrollmentCount": [
-			{
-				"courseId": 1,
-				"title": "Diverse static frame",
-				"enrolledStudents": 12
-			},
-			{
-				"courseId": 2,
-				"title": "Team-oriented asymmetric structure",
-				"enrolledStudents": 9
-			},
-			{
-				"courseId": 3,
-				"title": "Adaptive heuristic task-force",
-				"enrolledStudents": 8
-			},
-			{
-				"courseId": 4,
-				"title": "Sharable real-time system engine",
-				"enrolledStudents": 14
-			},
-			{
-				"courseId": 5,
-				"title": "User-centric next generation forecast",
-				"enrolledStudents": 7
-			}
-		],
-		"averageProgressByCourse": [
-			{
-				"courseId": 1,
-				"title": "Diverse static frame",
-				"averageProgress": 0.42
-			},
-			{
-				"courseId": 2,
-				"title": "Team-oriented asymmetric structure",
-				"averageProgress": 0.49
-			},
-			{
-				"courseId": 3,
-				"title": "Adaptive heuristic task-force",
-				"averageProgress": 0.4
-			},
-			{
-				"courseId": 4,
-				"title": "Sharable real-time system engine",
-				"averageProgress": 0.51
-			},
-			{
-				"courseId": 5,
-				"title": "User-centric next generation forecast",
-				"averageProgress": 0.54
-			}
-		]
-	}
+  "users": [
+    {
+      "id": 1,
+      "username": "Elvera56",
+      "password": "66qx5xr6V4zInMr",
+      "name": "Olivia Gislason-O'Conner",
+      "email": "Lynn_Anderson@yahoo.com",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "username": "Joany18",
+      "password": "9Ws9Z7H5KvtQmae",
+      "name": "Sara Pfeffer",
+      "email": "Pat.Rath@hotmail.com",
+      "role": "teacher"
+    },
+    {
+      "id": 3,
+      "username": "May16",
+      "password": "_QUJkDnfGQCJCbd",
+      "name": "Billy Wolf",
+      "email": "Telly60@gmail.com",
+      "role": "teacher"
+    },
+    {
+      "id": 4,
+      "username": "Dereck_Haag49",
+      "password": "p2oA3xd5ypoytQI",
+      "name": "Hugh Skiles",
+      "email": "Alek.Heaney33@gmail.com",
+      "role": "teacher"
+    },
+    {
+      "id": 5,
+      "username": "Maxwell36",
+      "password": "Ma9MAsWk3EDHXwy",
+      "name": "Gertrude Goldner III",
+      "email": "Stone_Simonis@gmail.com",
+      "role": "teacher"
+    },
+    {
+      "id": 6,
+      "username": "Anibal89",
+      "password": "icR81tSaJo8t5Bw",
+      "name": "Vicki Cartwright",
+      "email": "Myron_Mraz57@yahoo.com",
+      "role": "teacher"
+    },
+    {
+      "id": 7,
+      "username": "Herbert_Streich17",
+      "password": "5J9qmCZY7VpY3t6",
+      "name": "Guadalupe Hermiston",
+      "email": "Elmore_Ondricka@hotmail.com",
+      "role": "student"
+    },
+    {
+      "id": 8,
+      "username": "Kiarra87",
+      "password": "2VJe5IJKd3NPOX4",
+      "name": "Darlene Bashirian MD",
+      "email": "Nicholaus.McDermott67@gmail.com",
+      "role": "student"
+    },
+    {
+      "id": 9,
+      "username": "Josiane.Stoltenberg",
+      "password": "Le06_GK0pt4QJwI",
+      "name": "Stuart Armstrong",
+      "email": "Flavio.Kulas-Morissette@gmail.com",
+      "role": "student"
+    },
+    {
+      "id": 10,
+      "username": "Kiel.Hudson22",
+      "password": "9lAppoarCOA5j_Q",
+      "name": "Dr. Amanda Mayert",
+      "email": "Mavis99@hotmail.com",
+      "role": "student"
+    },
+    {
+      "id": 11,
+      "username": "Bennett28",
+      "password": "aZ1GmjAJ5afzfRh",
+      "name": "Santiago Brakus",
+      "email": "Ardith_Grant@gmail.com",
+      "role": "student"
+    },
+    {
+      "id": 12,
+      "username": "Kris.Powlowski",
+      "password": "Jwqsncoxafiirxb",
+      "name": "Robert Kerluke",
+      "email": "Janae_Dicki@gmail.com",
+      "role": "student"
+    },
+    {
+      "id": 13,
+      "username": "Burdette.Doyle82",
+      "password": "Vc0n86ytiR_CYaK",
+      "name": "Robyn Toy",
+      "email": "Doug_Green58@hotmail.com",
+      "role": "student"
+    },
+    {
+      "id": 14,
+      "username": "Warren_OKon",
+      "password": "pX2CXjTrDj76Vyn",
+      "name": "Pete Kutch-Wunsch",
+      "email": "Kris36@gmail.com",
+      "role": "student"
+    },
+    {
+      "id": 15,
+      "username": "Cletus10",
+      "password": "rw_USEp3u3Djrpr",
+      "name": "Mr. Jermaine Reinger",
+      "email": "Eliezer_Pouros@hotmail.com",
+      "role": "student"
+    },
+    {
+      "id": 16,
+      "username": "Leopold82",
+      "password": "uXHPozHFKsQ8CXf",
+      "name": "Fred Hansen",
+      "email": "Kobe_Conn@yahoo.com",
+      "role": "student"
+    },
+    {
+      "id": 17,
+      "username": "Julie.Zemlak",
+      "password": "UF8NjIC0nM3CyfD",
+      "name": "Benny Cummerata",
+      "email": "Vince65@hotmail.com",
+      "role": "student"
+    },
+    {
+      "id": 18,
+      "username": "Derrick.Price",
+      "password": "e1Don61ZKNOrxmm",
+      "name": "Craig Rath",
+      "email": "Graciela_Shields@hotmail.com",
+      "role": "student"
+    },
+    {
+      "id": 19,
+      "username": "Everardo32",
+      "password": "p2CJ1WSvo10OlKl",
+      "name": "Blanca Purdy V",
+      "email": "Hal.Shanahan@yahoo.com",
+      "role": "student"
+    },
+    {
+      "id": 20,
+      "username": "Kane_Kunde45",
+      "password": "Y7hi7epArdBXek6",
+      "name": "Patricia Lowe",
+      "email": "Dwight.Mayert@gmail.com",
+      "role": "student"
+    },
+    {
+      "id": 21,
+      "username": "Dallas.Prohaska30",
+      "password": "7QjoqMmyCX5Hi6G",
+      "name": "Esther Brekke MD",
+      "email": "Kendrick19@hotmail.com",
+      "role": "student"
+    },
+    {
+      "id": 22,
+      "username": "Erika.Corwin",
+      "password": "n3w5LulqpHAXDl9",
+      "name": "Marilyn Thompson DDS",
+      "email": "Mariana_Pfannerstill84@gmail.com",
+      "role": "student"
+    },
+    {
+      "id": 23,
+      "username": "Johnson.Gulgowski3",
+      "password": "jq6rTuEvTWFodE3",
+      "name": "Douglas Keebler",
+      "email": "Delfina.Schaefer70@yahoo.com",
+      "role": "student"
+    },
+    {
+      "id": 24,
+      "username": "Delfina4",
+      "password": "TqFRhcn0f0SOMAh",
+      "name": "Marta Kulas DDS",
+      "email": "Graciela_Wintheiser65@hotmail.com",
+      "role": "student"
+    },
+    {
+      "id": 25,
+      "username": "Lonzo27",
+      "password": "QGgZBCKusWgoJ6M",
+      "name": "Elena Marks-Parisian",
+      "email": "Guido.Carroll@gmail.com",
+      "role": "student"
+    },
+    {
+      "id": 26,
+      "username": "Freeman_Weimann42",
+      "password": "5j1rDGg5shbdZEl",
+      "name": "Heidi Paucek",
+      "email": "Grover_Rogahn@gmail.com",
+      "role": "student"
+    },
+    {
+      "id": 27,
+      "username": "Rudolph77",
+      "password": "KcKfMe1_hCj8KSF",
+      "name": "David Mohr",
+      "email": "Bonnie_Kessler@yahoo.com",
+      "role": "student"
+    },
+    {
+      "id": 28,
+      "username": "Christop12",
+      "password": "G68BLiSw2ta_Vas",
+      "name": "Wilbert Anderson",
+      "email": "Phoebe_Wolff@gmail.com",
+      "role": "student"
+    },
+    {
+      "id": 29,
+      "username": "Adela.Hoeger",
+      "password": "DEt9G_a9if6DYSB",
+      "name": "Angelica Kreiger",
+      "email": "Constance.Hagenes15@gmail.com",
+      "role": "student"
+    },
+    {
+      "id": 30,
+      "username": "Cathy_Kohler",
+      "password": "ABKd0WF4dGRjbxg",
+      "name": "Gwendolyn Hackett",
+      "email": "Misty.Purdy@hotmail.com",
+      "role": "student"
+    }
+  ],
+  "courses": [
+    {
+      "id": 1,
+      "title": "Reactive zero trust attitude",
+      "description": "Vigor utor compello vulnus quae tenuis admitto.",
+      "instructorId": 2
+    },
+    {
+      "id": 2,
+      "title": "Optimized bifurcated customer loyalty",
+      "description": "Deprimo termes usitas termes denique mollitia voveo voluptatem hic.",
+      "instructorId": 3
+    },
+    {
+      "id": 3,
+      "title": "Stand-alone actuating middleware",
+      "description": "Amet tricesimus suggero conturbo arbor laborum angustus venustas.",
+      "instructorId": 4
+    },
+    {
+      "id": 4,
+      "title": "Streamlined asymmetric hub",
+      "description": "Illo convoco custodia tubineus maiores.",
+      "instructorId": 5
+    },
+    {
+      "id": 5,
+      "title": "Expanded heuristic knowledge user",
+      "description": "Tracto aveho aptus solus confugo.",
+      "instructorId": 6
+    }
+  ],
+  "lessons": [
+    {
+      "id": 1,
+      "courseId": 1,
+      "title": "Lesson 1 of Course 1",
+      "content": "Crux rem appello numquam sonitus. Adeptio abscido dens turba spiculum amplitudo aedificium dolores cena. Verecundia qui vorax vomer ceno ventosus."
+    },
+    {
+      "id": 2,
+      "courseId": 1,
+      "title": "Lesson 2 of Course 1",
+      "content": "Delectus venustas suspendo vulticulus vae repellat. Crur acquiro consuasor spiritus stultus. Vicinus tenuis degero vulariter arbustum."
+    },
+    {
+      "id": 3,
+      "courseId": 1,
+      "title": "Lesson 3 of Course 1",
+      "content": "Tyrannus demoror aggredior ter vita abbas id arbor vulgaris articulus. Rerum venia qui. Absens temperantia callide apud tribuo confero tantillus."
+    },
+    {
+      "id": 4,
+      "courseId": 1,
+      "title": "Lesson 4 of Course 1",
+      "content": "Cometes solutio toties umbra tabesco numquam conatus admoveo curia auxilium. Admiratio spes vobis utrimque accendo iusto bellum adinventitias. Delibero praesentium astrum cum similique aequitas pauci autem thymum concedo."
+    },
+    {
+      "id": 5,
+      "courseId": 1,
+      "title": "Lesson 5 of Course 1",
+      "content": "Commodo alius aeneus cur. Uberrime vulpes totidem conventus subseco. Inventore video tertius temptatio cogo adamo."
+    },
+    {
+      "id": 6,
+      "courseId": 2,
+      "title": "Lesson 1 of Course 2",
+      "content": "Depraedor deleo suus acceptus. Angulus aspernatur asporto volaticus audax dolorem conduco copia cometes ustilo. Triumphus derideo bonus fugiat itaque vobis trepide."
+    },
+    {
+      "id": 7,
+      "courseId": 2,
+      "title": "Lesson 2 of Course 2",
+      "content": "Aequus curatio crapula voluptatem vulgus comitatus auctus. Tertius bellicus vaco accusantium. Timidus capio timidus esse virgo verbera cohors paens."
+    },
+    {
+      "id": 8,
+      "courseId": 2,
+      "title": "Lesson 3 of Course 2",
+      "content": "Tonsor tenetur tot et unde defendo vapulus. Cubicularis pecus toties crur patior. Auctor patruus delectus textus sunt cubitum sophismata clamo."
+    },
+    {
+      "id": 9,
+      "courseId": 2,
+      "title": "Lesson 4 of Course 2",
+      "content": "Adduco vomer texo vel communis vaco vorax. Sto teneo aspicio defaeco thymum catena. Infit explicabo catena thalassinus crapula admiratio animus."
+    },
+    {
+      "id": 10,
+      "courseId": 2,
+      "title": "Lesson 5 of Course 2",
+      "content": "Corporis spes coepi dolorem voluptatem condico damno suasoria aveho utor. Cohaero copia consequuntur quia damno audacia error adflicto vesica custodia. Veniam sulum pel blandior assentator avaritia alo temptatio usque iusto."
+    },
+    {
+      "id": 11,
+      "courseId": 3,
+      "title": "Lesson 1 of Course 3",
+      "content": "Earum temperantia tempore talio. Clarus carbo curto turba ullam artificiose abduco dicta dolorem. Defleo agnitio cimentarius carbo earum voluptas iste."
+    },
+    {
+      "id": 12,
+      "courseId": 3,
+      "title": "Lesson 2 of Course 3",
+      "content": "Celebrer annus caelestis sursum. Aer cunctatio supplanto veniam sodalitas deputo vorax ulterius vulnus viriliter. Quia sortitus peior volaticus vindico cura suscipio."
+    },
+    {
+      "id": 13,
+      "courseId": 3,
+      "title": "Lesson 3 of Course 3",
+      "content": "Adaugeo demulceo verecundia crepusculum. Recusandae peccatus capio alius maxime strues comis contra debilito. Bellum calco confero clarus benigne sint consuasor absens peccatus."
+    },
+    {
+      "id": 14,
+      "courseId": 3,
+      "title": "Lesson 4 of Course 3",
+      "content": "Vinco angelus cupressus thymum. Venia tui contigo barba curia vulgo. Patruus vulnus collum."
+    },
+    {
+      "id": 15,
+      "courseId": 3,
+      "title": "Lesson 5 of Course 3",
+      "content": "Cupiditate virgo adnuo crastinus cunae auxilium terebro aperte vos. Cotidie acervus taedium convoco assentator tam ater accusator adiuvo vestigium. Universe timor itaque officiis defaeco thesis volva."
+    },
+    {
+      "id": 16,
+      "courseId": 4,
+      "title": "Lesson 1 of Course 4",
+      "content": "Sopor tardus molestias astrum. Ulciscor supellex suscipio tempus varietas. Labore speciosus tamen clarus sperno delicate calco."
+    },
+    {
+      "id": 17,
+      "courseId": 4,
+      "title": "Lesson 2 of Course 4",
+      "content": "Dedecor tubineus cohors. Architecto sperno torrens. Basium theatrum corona vos capitulus."
+    },
+    {
+      "id": 18,
+      "courseId": 4,
+      "title": "Lesson 3 of Course 4",
+      "content": "Trucido abundans creator volo viriliter cohors non. Asperiores communis voluptatibus consequuntur apud despecto corrumpo damnatio contra. Labore contabesco adsuesco."
+    },
+    {
+      "id": 19,
+      "courseId": 4,
+      "title": "Lesson 4 of Course 4",
+      "content": "Asper natus claustrum solus agnitio crapula harum demulceo credo arguo. Tres cariosus confero. Odit amet amitto victus deleniti coniecto vero torqueo alius."
+    },
+    {
+      "id": 20,
+      "courseId": 4,
+      "title": "Lesson 5 of Course 4",
+      "content": "Facere beatae vitium beneficium utique cultellus volutabrum chirographum virga. Stabilis coruscus tubineus abstergo error timor undique deripio vinculum umquam. Pecus voco adipisci."
+    },
+    {
+      "id": 21,
+      "courseId": 5,
+      "title": "Lesson 1 of Course 5",
+      "content": "Utor fuga canto verecundia harum. Demergo aequitas adinventitias virtus molestias architecto sperno delego blandior. Tremo patior crebro templum provident audax."
+    },
+    {
+      "id": 22,
+      "courseId": 5,
+      "title": "Lesson 2 of Course 5",
+      "content": "Virtus fuga vesco repellendus autem. Capitulus cavus currus spiritus currus thymbra valde. Sumo inventore victus caste commodo."
+    },
+    {
+      "id": 23,
+      "courseId": 5,
+      "title": "Lesson 3 of Course 5",
+      "content": "Sunt quidem absorbeo volup voluptatibus absconditus vindico aeneus. Color deserunt vindico ciminatio cui dolores reprehenderit clamo. Velut velit spiculum."
+    },
+    {
+      "id": 24,
+      "courseId": 5,
+      "title": "Lesson 4 of Course 5",
+      "content": "Defessus tandem adhaero. Depulso inflammatio sumo venio apostolus pectus cupiditas. Volaticus arbor tenus sint."
+    },
+    {
+      "id": 25,
+      "courseId": 5,
+      "title": "Lesson 5 of Course 5",
+      "content": "Adficio quod voco. Ab amaritudo velit tendo ascisco abduco. Tot astrum tristis suffragium."
+    }
+  ],
+  "enrollments": [
+    {
+      "id": 1,
+      "userId": 7,
+      "courseId": 1
+    },
+    {
+      "id": 2,
+      "userId": 8,
+      "courseId": 1
+    },
+    {
+      "id": 3,
+      "userId": 9,
+      "courseId": 5
+    },
+    {
+      "id": 4,
+      "userId": 10,
+      "courseId": 5
+    },
+    {
+      "id": 5,
+      "userId": 10,
+      "courseId": 3
+    },
+    {
+      "id": 6,
+      "userId": 11,
+      "courseId": 4
+    },
+    {
+      "id": 7,
+      "userId": 11,
+      "courseId": 3
+    },
+    {
+      "id": 8,
+      "userId": 12,
+      "courseId": 2
+    },
+    {
+      "id": 9,
+      "userId": 13,
+      "courseId": 2
+    },
+    {
+      "id": 10,
+      "userId": 13,
+      "courseId": 3
+    },
+    {
+      "id": 11,
+      "userId": 13,
+      "courseId": 1
+    },
+    {
+      "id": 12,
+      "userId": 14,
+      "courseId": 2
+    },
+    {
+      "id": 13,
+      "userId": 15,
+      "courseId": 5
+    },
+    {
+      "id": 14,
+      "userId": 15,
+      "courseId": 3
+    },
+    {
+      "id": 15,
+      "userId": 15,
+      "courseId": 2
+    },
+    {
+      "id": 16,
+      "userId": 16,
+      "courseId": 2
+    },
+    {
+      "id": 17,
+      "userId": 16,
+      "courseId": 3
+    },
+    {
+      "id": 18,
+      "userId": 17,
+      "courseId": 2
+    },
+    {
+      "id": 19,
+      "userId": 17,
+      "courseId": 4
+    },
+    {
+      "id": 20,
+      "userId": 18,
+      "courseId": 1
+    },
+    {
+      "id": 21,
+      "userId": 18,
+      "courseId": 2
+    },
+    {
+      "id": 22,
+      "userId": 19,
+      "courseId": 3
+    },
+    {
+      "id": 23,
+      "userId": 19,
+      "courseId": 2
+    },
+    {
+      "id": 24,
+      "userId": 19,
+      "courseId": 4
+    },
+    {
+      "id": 25,
+      "userId": 20,
+      "courseId": 2
+    },
+    {
+      "id": 26,
+      "userId": 21,
+      "courseId": 4
+    },
+    {
+      "id": 27,
+      "userId": 22,
+      "courseId": 3
+    },
+    {
+      "id": 28,
+      "userId": 22,
+      "courseId": 2
+    },
+    {
+      "id": 29,
+      "userId": 23,
+      "courseId": 2
+    },
+    {
+      "id": 30,
+      "userId": 24,
+      "courseId": 4
+    },
+    {
+      "id": 31,
+      "userId": 25,
+      "courseId": 3
+    },
+    {
+      "id": 32,
+      "userId": 25,
+      "courseId": 5
+    },
+    {
+      "id": 33,
+      "userId": 26,
+      "courseId": 3
+    },
+    {
+      "id": 34,
+      "userId": 26,
+      "courseId": 1
+    },
+    {
+      "id": 35,
+      "userId": 26,
+      "courseId": 5
+    },
+    {
+      "id": 36,
+      "userId": 27,
+      "courseId": 5
+    },
+    {
+      "id": 37,
+      "userId": 27,
+      "courseId": 1
+    },
+    {
+      "id": 38,
+      "userId": 27,
+      "courseId": 3
+    },
+    {
+      "id": 39,
+      "userId": 28,
+      "courseId": 3
+    },
+    {
+      "id": 40,
+      "userId": 28,
+      "courseId": 1
+    },
+    {
+      "id": 41,
+      "userId": 29,
+      "courseId": 4
+    },
+    {
+      "id": 42,
+      "userId": 30,
+      "courseId": 3
+    },
+    {
+      "id": 43,
+      "userId": 30,
+      "courseId": 2
+    }
+  ],
+  "progress": [
+    {
+      "id": 1002,
+      "userId": 7,
+      "courseId": 1,
+      "completedLessons": 4,
+      "totalLessons": 5
+    },
+    {
+      "id": 1003,
+      "userId": 8,
+      "courseId": 1,
+      "completedLessons": 0,
+      "totalLessons": 5
+    },
+    {
+      "id": 1004,
+      "userId": 9,
+      "courseId": 5,
+      "completedLessons": 2,
+      "totalLessons": 5
+    },
+    {
+      "id": 1005,
+      "userId": 10,
+      "courseId": 5,
+      "completedLessons": 2,
+      "totalLessons": 5
+    },
+    {
+      "id": 1006,
+      "userId": 10,
+      "courseId": 3,
+      "completedLessons": 4,
+      "totalLessons": 5
+    },
+    {
+      "id": 1007,
+      "userId": 11,
+      "courseId": 4,
+      "completedLessons": 2,
+      "totalLessons": 5
+    },
+    {
+      "id": 1008,
+      "userId": 11,
+      "courseId": 3,
+      "completedLessons": 3,
+      "totalLessons": 5
+    },
+    {
+      "id": 1009,
+      "userId": 12,
+      "courseId": 2,
+      "completedLessons": 5,
+      "totalLessons": 5
+    },
+    {
+      "id": 1010,
+      "userId": 13,
+      "courseId": 2,
+      "completedLessons": 0,
+      "totalLessons": 5
+    },
+    {
+      "id": 1011,
+      "userId": 13,
+      "courseId": 3,
+      "completedLessons": 4,
+      "totalLessons": 5
+    },
+    {
+      "id": 1012,
+      "userId": 13,
+      "courseId": 1,
+      "completedLessons": 4,
+      "totalLessons": 5
+    },
+    {
+      "id": 1013,
+      "userId": 14,
+      "courseId": 2,
+      "completedLessons": 2,
+      "totalLessons": 5
+    },
+    {
+      "id": 1014,
+      "userId": 15,
+      "courseId": 5,
+      "completedLessons": 1,
+      "totalLessons": 5
+    },
+    {
+      "id": 1015,
+      "userId": 15,
+      "courseId": 3,
+      "completedLessons": 3,
+      "totalLessons": 5
+    },
+    {
+      "id": 1016,
+      "userId": 15,
+      "courseId": 2,
+      "completedLessons": 1,
+      "totalLessons": 5
+    },
+    {
+      "id": 1017,
+      "userId": 16,
+      "courseId": 2,
+      "completedLessons": 5,
+      "totalLessons": 5
+    },
+    {
+      "id": 1018,
+      "userId": 16,
+      "courseId": 3,
+      "completedLessons": 1,
+      "totalLessons": 5
+    },
+    {
+      "id": 1019,
+      "userId": 17,
+      "courseId": 2,
+      "completedLessons": 0,
+      "totalLessons": 5
+    },
+    {
+      "id": 1020,
+      "userId": 17,
+      "courseId": 4,
+      "completedLessons": 1,
+      "totalLessons": 5
+    },
+    {
+      "id": 1021,
+      "userId": 18,
+      "courseId": 1,
+      "completedLessons": 4,
+      "totalLessons": 5
+    },
+    {
+      "id": 1022,
+      "userId": 18,
+      "courseId": 2,
+      "completedLessons": 1,
+      "totalLessons": 5
+    },
+    {
+      "id": 1023,
+      "userId": 19,
+      "courseId": 3,
+      "completedLessons": 5,
+      "totalLessons": 5
+    },
+    {
+      "id": 1024,
+      "userId": 19,
+      "courseId": 2,
+      "completedLessons": 4,
+      "totalLessons": 5
+    },
+    {
+      "id": 1025,
+      "userId": 19,
+      "courseId": 4,
+      "completedLessons": 0,
+      "totalLessons": 5
+    },
+    {
+      "id": 1026,
+      "userId": 20,
+      "courseId": 2,
+      "completedLessons": 1,
+      "totalLessons": 5
+    },
+    {
+      "id": 1027,
+      "userId": 21,
+      "courseId": 4,
+      "completedLessons": 5,
+      "totalLessons": 5
+    },
+    {
+      "id": 1028,
+      "userId": 22,
+      "courseId": 3,
+      "completedLessons": 1,
+      "totalLessons": 5
+    },
+    {
+      "id": 1029,
+      "userId": 22,
+      "courseId": 2,
+      "completedLessons": 0,
+      "totalLessons": 5
+    },
+    {
+      "id": 1030,
+      "userId": 23,
+      "courseId": 2,
+      "completedLessons": 0,
+      "totalLessons": 5
+    },
+    {
+      "id": 1031,
+      "userId": 24,
+      "courseId": 4,
+      "completedLessons": 4,
+      "totalLessons": 5
+    },
+    {
+      "id": 1032,
+      "userId": 25,
+      "courseId": 3,
+      "completedLessons": 2,
+      "totalLessons": 5
+    },
+    {
+      "id": 1033,
+      "userId": 25,
+      "courseId": 5,
+      "completedLessons": 0,
+      "totalLessons": 5
+    },
+    {
+      "id": 1034,
+      "userId": 26,
+      "courseId": 3,
+      "completedLessons": 5,
+      "totalLessons": 5
+    },
+    {
+      "id": 1035,
+      "userId": 26,
+      "courseId": 1,
+      "completedLessons": 4,
+      "totalLessons": 5
+    },
+    {
+      "id": 1036,
+      "userId": 26,
+      "courseId": 5,
+      "completedLessons": 3,
+      "totalLessons": 5
+    },
+    {
+      "id": 1037,
+      "userId": 27,
+      "courseId": 5,
+      "completedLessons": 3,
+      "totalLessons": 5
+    },
+    {
+      "id": 1038,
+      "userId": 27,
+      "courseId": 1,
+      "completedLessons": 5,
+      "totalLessons": 5
+    },
+    {
+      "id": 1039,
+      "userId": 27,
+      "courseId": 3,
+      "completedLessons": 3,
+      "totalLessons": 5
+    },
+    {
+      "id": 1040,
+      "userId": 28,
+      "courseId": 3,
+      "completedLessons": 4,
+      "totalLessons": 5
+    },
+    {
+      "id": 1041,
+      "userId": 28,
+      "courseId": 1,
+      "completedLessons": 3,
+      "totalLessons": 5
+    },
+    {
+      "id": 1042,
+      "userId": 29,
+      "courseId": 4,
+      "completedLessons": 5,
+      "totalLessons": 5
+    },
+    {
+      "id": 1043,
+      "userId": 30,
+      "courseId": 3,
+      "completedLessons": 4,
+      "totalLessons": 5
+    },
+    {
+      "id": 1044,
+      "userId": 30,
+      "courseId": 2,
+      "completedLessons": 3,
+      "totalLessons": 5
+    }
+  ],
+  "dashboardStats": {
+    "userRoles": {
+      "admin": 1,
+      "teacher": 5,
+      "student": 24
+    },
+    "courseEnrollmentCount": [
+      {
+        "courseId": 1,
+        "title": "Reactive zero trust attitude",
+        "enrolledStudents": 7
+      },
+      {
+        "courseId": 2,
+        "title": "Optimized bifurcated customer loyalty",
+        "enrolledStudents": 12
+      },
+      {
+        "courseId": 3,
+        "title": "Stand-alone actuating middleware",
+        "enrolledStudents": 12
+      },
+      {
+        "courseId": 4,
+        "title": "Streamlined asymmetric hub",
+        "enrolledStudents": 6
+      },
+      {
+        "courseId": 5,
+        "title": "Expanded heuristic knowledge user",
+        "enrolledStudents": 6
+      }
+    ],
+    "averageProgressByCourse": [
+      {
+        "courseId": 1,
+        "title": "Reactive zero trust attitude",
+        "averageProgress": 0.69
+      },
+      {
+        "courseId": 2,
+        "title": "Optimized bifurcated customer loyalty",
+        "averageProgress": 0.37
+      },
+      {
+        "courseId": 3,
+        "title": "Stand-alone actuating middleware",
+        "averageProgress": 0.65
+      },
+      {
+        "courseId": 4,
+        "title": "Streamlined asymmetric hub",
+        "averageProgress": 0.57
+      },
+      {
+        "courseId": 5,
+        "title": "Expanded heuristic knowledge user",
+        "averageProgress": 0.37
+      }
+    ]
+  }
 }

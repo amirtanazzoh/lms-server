@@ -2,9 +2,11 @@
 	"name": "json-server-lms",
 	"version": "1.0.0",
 	"scripts": {
+		"build": "node ./generateDb.js",
 		"start": "json-server --watch db.json --port 10000"
 	},
 	"dependencies": {
+		"@faker-js/faker": "^9.7.0",
 		"json-server": "1.0.0-beta.3"
 	}
 }
